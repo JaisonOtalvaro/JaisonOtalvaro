@@ -4,7 +4,7 @@
 <img alt="background" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/bg_profile.png">
 <p>I am a Web Application Developer with Backend and Frontend knowledge. I focus on learning more every day and polishing my skills.</p>
 <br><br>
-<h2>About me:</h2>
+<h2>About me</h2>
 <ul>
   <li>🎓 Web application developer title at the El Caminas institute</li>
   <li>🎓 Computer maintenance and repair technician at the CEIDA</li>
@@ -13,7 +13,7 @@
 </ul>
 <br><br>
 <h2>Known technologies</h2>
-Backend:
+<h4>Backend:</h4>
 <img alt="Php" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
 <img alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
 <img alt="Laravel" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a">
