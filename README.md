@@ -38,6 +38,7 @@
 </table>
 <h2>Projects</h2>
 <a href="https://www.protdentales.com">Sitio web Protdentales</a>
+<a href="https://www.protdentales.com"><img alt="Protdentales" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/logo.png"></a>
 
 
 
