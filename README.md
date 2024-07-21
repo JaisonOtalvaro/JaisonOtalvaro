@@ -8,7 +8,7 @@ About me:
 <ul>
   <li>🎓 Web application developer title at the El Caminas institute</li>
   <li>🎓 Computer maintenance and repair technician at the CEIDA</li>
-  <li>📧 Contact me at jaisonotalvaro@gmail.com</li>
+  <li>📧 Contact me at <a href="mailto:jaisonotalvaro@gmail.com">jaisonotalvaro@gmail.com</a></li>
 </ul>
 
 
