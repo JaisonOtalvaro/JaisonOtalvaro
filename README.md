@@ -6,7 +6,7 @@
 <p>I am a Web Application Developer with Backend and Frontend knowledge. I focus on learning more every day and polishing my skills.</p>
 <h2>About me</h2>
 <ul>
-<li>🎓 Web application developer title at the El Caminas institute</li>
+<li>🎓 Web application developer title at the El Caminas Institute</li>
 <li>🎓 Computer maintenance and repair technician at the CEIDA</li>
 <li>💻 Interest in working as a web application developer</li>
 <li>📧 Contact me at <a href="mailto:jaisonotalvaro@gmail.com">jaisonotalvaro@gmail.com</a></li>
