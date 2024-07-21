@@ -4,7 +4,6 @@
 **JaisonOtalvaro/JaisonOtalvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img alt="background" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/bg_profile.png">
 <p>I am a Web Application Developer with Backend and Frontend knowledge. I focus on learning more every day and polishing my skills.</p>
-<br><br>
 <h2>About me</h2>
 <ul>
 <li>🎓 Web application developer title at the El Caminas institute</li>
@@ -12,7 +11,6 @@
 <li>💻 Interest in working as a web application developer</li>
 <li>📧 Contact me at <a href="mailto:jaisonotalvaro@gmail.com">jaisonotalvaro@gmail.com</a></li>
 </ul>
-<br><br>
 <h2>Known technologies</h2>
 <h4>Backend:</h4>
 <table>
