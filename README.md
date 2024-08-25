@@ -38,7 +38,8 @@
 </table>
 <h2>Projects</h2>
 <a href="https://www.protdentales.com">Sitio web Protdentales</a><br><br>
-<a href="https://www.protdentales.com"><img width="200" alt="Protdentales" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/logo.png"></a>
+<a href="https://www.protdentales.com"><img width="200" alt="Protdentales" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/logo.png"></a><br>
+<a href="https://www.yuliallis.com">Yuliallis online shop</a><br><br>
 
 
 
