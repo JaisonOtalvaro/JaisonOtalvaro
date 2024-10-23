@@ -21,7 +21,7 @@
 <h4>Tools</h4>
 <img src="https://skillicons.dev/icons?i=postman,docker,git,github"/>
 <h4>CMS</h4>
-<img src="https://skillicons.dev/icons?i=wordpress"/>
+<img src="https://skillicons.dev/icons?i=wordpress"/><br>
 <h2>Projects</h2>
 <a href="https://www.protdentales.com">Sitio web Protdentales</a><br><br>
 <a href="https://www.protdentales.com"><img width="200" alt="Protdentales" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/logo.png"></a><br><br><br>
