@@ -13,7 +13,7 @@
 </ul>
 <h2>Known technologies</h2>
 <h4>Backend:</h4>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,symfony"/>
 <h4>Frontend:</h4>
 <table>
 <tr>
