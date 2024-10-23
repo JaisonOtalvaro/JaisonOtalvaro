@@ -15,14 +15,13 @@
 <h4>Backend:</h4>
 <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,symfony"/>
 <h4>Frontend:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery"/>
 <h4>Databases:</h4>
-<table>
-<tr>
-<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></td>
-<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<h4>Tools</h4>
+<img src="https://skillicons.dev/icons?i=postman,docker,git,github"/>
+<h4>CMS</h4>
+<img src="https://skillicons.dev/icons?i=wordpress"/>
 <h2>Projects</h2>
 <a href="https://www.protdentales.com">Sitio web Protdentales</a><br><br>
 <a href="https://www.protdentales.com"><img width="200" alt="Protdentales" src="https://raw.githubusercontent.com/JaisonOtalvaro/JaisonOtalvaro/main/logo.png"></a><br><br><br>
